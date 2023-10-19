@@ -50,6 +50,6 @@ To fine-tune the model and improve predictive performance, we explore techniques
 Once satisfied with the model's performance, we deploy it in a production-like environment. The model can take new customer data as input and provide churn predictions.
 
 ## For Model Deployment
-- Go to the comment prompt.
+- Open the comment prompt.
 - Go to the file location where app.py file is located
 - Run the following code: "streamlit run app.py"
